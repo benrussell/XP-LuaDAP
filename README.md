@@ -15,7 +15,7 @@ LuaDAP is compiled with the Lua version string in its plugin signature to avoid 
 `XPLMSendMessageToPlugin( to, 0x1, L );`
 
 ### Requesting debug detach:
-`XPLMSendMessageToPlugin( to, 0x2, nullptr );`
+`XPLMSendMessageToPlugin( to, 0x0, nullptr );`
 
 
 ## Using LuaDAP with VSCode:
