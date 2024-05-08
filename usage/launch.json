@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "lrdb",
+      "request": "attach",
+      "name": "Attach",
+      "host": "localhost",
+      "port": 21110,
+      "sourceRoot": "??? /X-Plane 11/Aircraft/ ??? /scripts_src"
+    },
+  ]
+}
